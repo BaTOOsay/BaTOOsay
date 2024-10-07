@@ -19,7 +19,7 @@
 
 
 🐢 Обо мне:
-:godmode: <img src="https://img.shields.io/badge/НИЯУ МИФИ-000000?style=for-the-badge&logo=adidas&logoColor=FFFFFF"/> :godmode:
+:godmode:<img src="https://img.shields.io/badge/НИЯУ МИФИ-000000?style=for-the-badge&logo=adidas&logoColor=FFFFFF"/> :godmode:
 
 
 
