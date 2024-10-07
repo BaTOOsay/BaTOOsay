@@ -23,7 +23,7 @@
 Я студент <img src="https://img.shields.io/badge/НИЯУ МИФИ-000000?style=for-the-badge&logo=adidas&logoColor=FFFFFF"/>(Национальный исследовательский ядерный университет
 "МИФИ"), направления "Бизнес-информатика". Здесь храню ряд своих готовых проектов по аналитике данных, полезные скрипты, решения задач, сертификаты и реализацию тестовых заданий.
 
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=counterstrike&logoColor=FFFFFF"/> Обо мне:
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=counterstrike&logoColor=FFFFFF"/> Описание проектов:
 
 
 
