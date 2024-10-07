@@ -103,7 +103,7 @@ BI-инструменты:
 - в процессе.
 
 
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=counterstrike&logoColor=00FF00"/> Описание проектов, курсов, ативностей:
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=counterstrike&logoColor=00FF00"/> Описание других проектов, курсов, активностей:
 
 1. Курс "Основы работы в Google Sheets":
 - константы, формулы, функции, типы данных, сортировка;
