@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Мой стэк технологий:
+
 ![image](https://github.com/user-attachments/assets/cee12666-8424-4906-afed-a8564e5af4a7)
 ![image](https://github.com/user-attachments/assets/59d4d2bd-8371-44ab-bf2d-111bb2105ae3)
 
