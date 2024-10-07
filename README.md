@@ -2,8 +2,7 @@
 
 Мой стэк технологий:
 
-<img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=FFFF00"/>
-<img src="https://img.shields.io/badge/jupyter-FFFFFF?style=for-the-badge&logo=jupyter&logoColor=FFA500"/>
+<img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=FFFF00"/> <img src="https://img.shields.io/badge/jupyter-FFFFFF?style=for-the-badge&logo=jupyter&logoColor=FFA500"/>
 <img src="https://img.shields.io/badge/НИЯУ МИФИ-000000?style=for-the-badge&logo=adidas&logoColor=FFFFFF"/>
 
 
