@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/sqlalchemy-FFFFFF?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00"/>
 
 
-<img src="https://img.shields.io/badge/postgresql-1E90FF?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/mysql-FFFFFF?style=for-the-badge&logo=mysql&logoColor=4682B4"/>
+<img src="https://img.shields.io/badge/postgresql-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/mysql-FFFFFF?style=for-the-badge&logo=mysql&logoColor=4682B4"/>
 
 <img src="https://img.shields.io/badge/tableau-FFFFFF?style=for-the-badge&logo=tableau&logoColor=E97627"/>
 
