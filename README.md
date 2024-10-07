@@ -8,7 +8,7 @@
 ![image](https://github.com/user-attachments/assets/7b5a0a99-4797-466c-9e52-ae2b9620e714)
 ![image](https://github.com/user-attachments/assets/14c8134d-7c57-4c70-b00e-d4224346ab49)
 ![image](https://github.com/user-attachments/assets/ede3b5e4-c202-4c2a-837a-eb52f53cc878)
-img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/
+img src="https://img.shields.io/badge/НИЯУ МИФИ-blue?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/
 
 
 
