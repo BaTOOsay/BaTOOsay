@@ -1,4 +1,5 @@
 ## Hi there 👋
+![image](https://github.com/user-attachments/assets/cee12666-8424-4906-afed-a8564e5af4a7)
 
 <!--
 **BaTOOsay/BaTOOsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
