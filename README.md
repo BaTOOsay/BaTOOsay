@@ -23,7 +23,6 @@
 Я студент <img src="https://img.shields.io/badge/НИЯУ МИФИ-000000?style=for-the-badge&logo=adidas&logoColor=FFFFFF"/>(Национальный исследовательский ядерный университет
 "МИФИ"), направления "Бизнес-информатика" и выпускник программы "Аналитик данных" от Яндекс Практикума. Здесь храню ряд своих готовых проектов, полезные скрипты, сертификаты и реализации тестовых заданий, а также полезные материалы для аналитики. Буду рад сотрудничеству и обмену опытом:)
 
-<img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>:@osintNo
 
 <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=counterstrike&logoColor=00FF00"/> Описание проектов с ссылками(главный курс):
 
