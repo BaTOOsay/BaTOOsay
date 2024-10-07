@@ -19,8 +19,7 @@
 
 
 
-<img src="https://img.shields.io/badge/НИЯУ МИФИ-000000?style=for-the-badge&logo=adidas&logoColor=FFFFFF"/> ![image](https://github.com/user-attachments/assets/56f9f33c-6d2e-4a49-8cdb-cc0bc31e5d5b)
-
+<img src="https://img.shields.io/badge/НИЯУ МИФИ-000000?style=for-the-badge&logo=adidas&logoColor=FFFFFF"/> :godmode:
 
 
 
