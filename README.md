@@ -3,7 +3,7 @@
 Мой стэк технологий:
 
 <img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=FFFF00"/> <img src="https://img.shields.io/badge/jupyter-FFFFFF?style=for-the-badge&logo=jupyter&logoColor=FFA500"/>
-<img src="https://img.shields.io/badge/pandas-FFA500?style=for-the-badge&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=150458"/>
 <img src="https://img.shields.io/badge/numpy-C0C0C0?style=for-the-badge&logo=numpy&logoColor=013243"/>
 <img src="https://img.shields.io/badge/scipy-C0C0C0?style=for-the-badge&logo=scipy&logoColor=8CAAE6"/>
 <img src="https://img.shields.io/badge/plotly-C0C0C0?style=for-the-badge&logo=plotly&logoColor=3F4F75"/>
