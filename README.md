@@ -26,7 +26,7 @@
 🐢 Обо мне:
 
 
-<img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=counterstrike&logoColor=34A853"/>
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=counterstrike&logoColor=FFFFFF"/>
 
 
 <!--
