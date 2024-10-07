@@ -1,8 +1,8 @@
-# Привет, Друзья🐸
+# Привет, Мир😃
 
 
 
-Мой стэк используемых технологий:
+Мой стэк используемых технологий 🐍:
 
 <img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=FFFF00"/> <img src="https://img.shields.io/badge/jupyter-FFFFFF?style=for-the-badge&logo=jupyter&logoColor=FFA500"/>
 <img src="https://img.shields.io/badge/pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=150458"/>
