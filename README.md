@@ -17,6 +17,8 @@
 
 <img src="https://img.shields.io/badge/googlesheets-FFFFFF?style=for-the-badge&logo=googlesheets&logoColor=34A853"/>
 
+## Какой цвет на диаграмме преобладает?
+![image](https://github.com/user-attachments/assets/4fdc84f7-d442-479c-bab8-3d7ae9496399)
 
 ## 🐢 Обо мне:
 
