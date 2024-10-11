@@ -25,7 +25,7 @@
 
 
 
-## <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=counterstrike&logoColor=00FF00"/> Описание проектов с ссылками(главный курс):
+## <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=counterstrike&logoColor=00FF00"/> Описание проектов с ссылками (курс Яндекс Практикума):
 
 Успешно прошёл курс по анализу данных от Яндекс Практикума, в ходе которого создавал проекты, направленные на проработку навыков,
 необходимых для погружения в профессию.
