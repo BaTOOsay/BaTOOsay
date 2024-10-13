@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/plotly-FFFFFF?style=for-the-badge&logo=plotly&logoColor=3F4F75"/>
 <img src="https://img.shields.io/badge/seaborn-FFFFFF?style=for-the-badge&logo=seaborn&logoColor=4169E1"/>
 <img src="https://img.shields.io/badge/sqlalchemy-FFFFFF?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00"/>
+<img src="https://img.shields.io/badge/scikitlearn-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=150458"/>
 
 
 <img src="https://img.shields.io/badge/postgresql-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/mysql-FFFFFF?style=for-the-badge&logo=mysql&logoColor=4682B4"/>
